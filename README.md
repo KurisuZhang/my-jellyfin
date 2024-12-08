@@ -1,3 +1,6 @@
+https://github.com/KurisuZhang/myrepo
+
+~~
 # my-jellyfin
 
 ## Aria2 
@@ -128,7 +131,7 @@ systemctl status rclone.service
 
 - 首次配置 http://localhost:8096/web/index.html#!/wizardstart.html
 
-
+~~
 
 
 插件
