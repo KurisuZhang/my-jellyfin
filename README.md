@@ -28,7 +28,8 @@
 
 ## Alist
 
-- https://github.com/AlistGo/alist
+- https://github.com/AlistGo/alist  
+- https://github.com/AlistGo/with_aria2/tree/v3.40.0
 
   离线下载
 
