@@ -1,13 +1,12 @@
 https://github.com/KurisuZhang/myrepo
 
-~~
-# my-jellyfin
+# <!--my-jellyfin-->
 
-## Aria2 
+## <!--Aria2--> 
 
-- https://github.com/Masterchiefm/Aria2Dash
+- <!--https://github.com/Masterchiefm/Aria2Dash-->
 
-- 重命名 'The Apothecary Diaries S01E01-[1080p][BDRIP][x265.FLAC].mkv' => 药屋少女的呢喃_S01E01.mkv
+- <!--重命名 'The Apothecary Diaries S01E01-[1080p][BDRIP][x265.FLAC].mkv' => 药屋少女的呢喃_S01E01.mkv-->
 
 - ```bash
   #!/bin/bash
@@ -29,33 +28,34 @@ https://github.com/KurisuZhang/myrepo
   ```
 
 
-## Alist
+## <!--Alist-->
 
-- https://github.com/AlistGo/alist  
-- https://github.com/AlistGo/with_aria2/tree/v3.40.0
+- <!--https://github.com/AlistGo/alist-->  
 
-  离线下载
+- <!--https://github.com/AlistGo/with_aria2/tree/v3.40.0-->
 
-  如果你使用 **docker**，请自行映射以下两个默认路径（映射至宿主机相同的目录）
+  <!--离线下载-->
 
-  - **/opt/alist/data/temp/aria2**
-  - **/opt/alist/data/temp/qbittorrent**
-  
-- 重命名插件
+  <!--如果你使用 **docker**，请自行映射以下两个默认路径（映射至宿主机相同的目录）-->
 
-  - https://greasyfork.org/zh-CN/scripts/459303
+  - <!--**/opt/alist/data/temp/aria2**-->
+  - <!--**/opt/alist/data/temp/qbittorrent**-->
 
-- jellyfin中播放
+- <!--重命名插件-->
 
-  - 打开 web代理 => 302重定向
+  - <!--https://greasyfork.org/zh-CN/scripts/459303-->
+
+- <!--jellyfin中播放-->
+
+  - <!--打开 web代理 => 302重定向-->
 
 
-## Rclone
+## <!--Rclone-->
 
-- https://rclone.org/install/
-- https://master-jsx.top/archives/alist-linux
+- <!--https://rclone.org/install/-->
+- <!--https://master-jsx.top/archives/alist-linux-->
 
-1. Docker 中加载映射
+1. <!--Docker 中加载映射-->
 
 ```
 vim /etc/fuse.conf
@@ -63,7 +63,7 @@ vim /etc/fuse.conf
 user_allow_other
 ```
 
-2. rclone命令
+2. <!--rclone命令-->
 
 ```bash
 rclone config
@@ -124,16 +124,16 @@ systemctl status rclone.service
 
 ````
 
-## Jellyfin
+## <!--Jellyfin-->
 
-- https://github.com/linuxserver/docker-jellyfin
-- https://github.com/jellyfin/jellyfin
+- <!--https://github.com/linuxserver/docker-jellyfin-->
+- <!--https://github.com/jellyfin/jellyfin-->
 
-- 首次配置 http://localhost:8096/web/index.html#!/wizardstart.html
-
-~~
+- <!--首次配置 http://localhost:8096/web/index.html#!/wizardstart.html-->
 
 
-插件
 
--  https://github.com/cxfksword/jellyfin-plugin-metashark
+
+<!--插件-->
+
+-  <!--https://github.com/cxfksword/jellyfin-plugin-metashark-->
